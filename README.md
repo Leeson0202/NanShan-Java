@@ -1,10 +1,51 @@
 # NanShan-Java
 
-南山工作室 Java后端学习
+    南山工作室 Java后端学习
+
+
 
 [蓝山工作室技术部门通识课](./docs/00_class.md)
+<details><summary>查看目录</summary>
+
+
+- 编程软件
+  - VSCode
+    - 介绍
+    - 安装
+    - 插件
+    - 快速添加标签
+  - JetBrains
+    - 介绍
+    - 安装
+- Git
+  - Git是什么？
+  - 什么是版本控制系统？
+  - 什么是分布式？
+  - 使用
+    - 基本配置
+    - 基本操作
+    - 分支管理
+    - 远程仓库
+    - 标签管理
+- Typora
+  - 什么是markdown？
+  - 什么地方会用到markdown？
+  - 什么是Typora？
+  - 功能
+  - 实时预览
+  - 数学公式支持
+  - 代码高亮
+  - 表格
+  - 文件系统
+  - 支持HTML标签
+  - 流程图
+  - 大纲视图
+
+</details>
 
 [Java第一节课](./docs/01_class.md) - [作业](./homework/lesson_01/README.md)
+<details><summary>查看目录</summary>
+
  - JAVA的由来----要不要干一杯95年的咖啡
  - Java的优势
    - 更强大的生态 
@@ -26,4 +67,13 @@
    - 循环语句
    - 三目运算符
  - 数组
-   
+
+</details>
+
+
+
+
+
+
+
+
