@@ -7,7 +7,6 @@
 [蓝山工作室技术部门通识课](./docs/00_class.md)
 <details><summary>查看目录</summary>
 
-
 - 编程软件
   - VSCode
     - 介绍
@@ -69,7 +68,6 @@
  - 数组
 
 </details>
-
 
 
 
