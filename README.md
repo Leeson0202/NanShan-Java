@@ -4,7 +4,18 @@
 
 
 
+## 原始课程下载
+
+> cd NanShan-Java
+> 
+> git clone https://github.com/LanshanTeam/Courseware-Backend-Java-2022.git
+
+
+
+## 课程列表
+
 [蓝山工作室技术部门通识课](./docs/00_class.md)
+
 <details><summary>查看目录</summary>
 
 - 编程软件
@@ -43,6 +54,7 @@
 </details>
 
 [Java第一节课](./docs/01_class.md) - [作业](./homework/lesson_01/README.md)
+
 <details><summary>查看目录</summary>
 
  - JAVA的由来----要不要干一杯95年的咖啡
@@ -68,8 +80,6 @@
  - 数组
 
 </details>
-
-
 
 
 
