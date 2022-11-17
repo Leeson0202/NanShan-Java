@@ -53,7 +53,7 @@
 
 </details>
 
-[Java第一节课](./docs/01_class.md) - [作业](./homework/lesson_01/README.md)
+[Java第一节课·介绍及基本语法](./docs/01_class.md) - [作业](./homework/lesson_01/README.md)
 
 <details><summary>查看目录</summary>
 
@@ -81,8 +81,71 @@
 
 </details>
 
+[Java第二节课·OPP面向对象](./docs/02_class.md) - [作业](./homework/lesson_02/README.md)
+
+<details><summary>查看目录</summary>
+
+- 面向对象概念
+- 类与对象
+  - 类与对象概念
+  - 类的与对象创建
+    - 类的创建
+    - 方法创建与使用
+    - 方法的定义
+    - 关于return关键字，我们还需要进行进一步的介绍。
+    - 构造方法
+    - this关键字
+    - 对象的创建与使用
+    - 对象的创建
+- 封装、继承和多态
+  - 类的封装
+  - 类的继承
+    - 方法的重写
+    - final关键字
+    - 抽象
+    - 抽象类
+    - 抽象方法
+    - 抽象类总结规定
+    - 方法的重载
+  - 多态
+    - 概念和特点
+    - 实现多态
+    - 实现条件
+    - 实例
+    - 向上转型
+    - 向下转型
+    - instanceof 运算符
+</details>
 
 
+
+
+[Java第三节课·OPP面向对象进阶](./docs/03_class.md) - [作业](./homework/lesson_03/README.md)
+
+<details><summary>查看目录</summary>
+
+- final和static关键字 
+  - final关键字
+    - final的主要用法：
+    - 使用final关键字所能带来的好处：
+  - 静态static关键字
+  - 静态代码块
+    - 使用static关键字的好处：
+- 抽象类
+  - 抽象方法
+  - 抽象类与普通的类的不同：
+- 接口 - Interface
+  - 接口的定义以及实现：
+  - 接口回调:
+  - Lambda表达式
+  - 抽象类和接口的比较： 
+- 内部类
+  - Java中内部类的分类：
+    - 1.成员内部类
+    - 2.局部内部类（包含匿名内部类）
+
+
+</details>
 
 
 
